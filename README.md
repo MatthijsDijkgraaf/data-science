@@ -6,7 +6,7 @@ Everything is for demonstration purposes only.
 ## Contents
 
 - ### Machine Learning in Finance
-  - 
+  - Financial Data Analysis - Meme Stocks
 - ### Financial Risk Metrics
 
 - ### Distributed Ledger Technology
