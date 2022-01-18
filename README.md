@@ -5,8 +5,8 @@ Everything is for demonstration purposes only.
 
 ## Contents
 
-- ### Machine Learning
-
+- ### Machine Learning in Finance
+  - 
 - ### Financial Risk Metrics
 
 - ### Distributed Ledger Technology
