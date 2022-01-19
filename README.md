@@ -8,7 +8,7 @@ Everything is for demonstration purposes only.
 - ### Machine Learning in Finance
   - Financial Data Analysis - Meme Stocks
 - ### Financial Risk Metrics
-
+  - Risk Measures and Monte Carlo Simulations
 - ### Distributed Ledger Technology
 
 
